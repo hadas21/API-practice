@@ -1,4 +1,3 @@
-# API-practice
 
 # "Astronomy Picture of the Day Viewer" Web App
 
