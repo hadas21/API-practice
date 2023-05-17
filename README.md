@@ -3,6 +3,7 @@
 
 ## Instructions:
 * Fork and clone this repo to your `practices` directory
+* Install dependencies by running `npm i`
 * create and merge into a new branch called `practice`
 * follow the requirements
 
